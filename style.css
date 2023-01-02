@@ -9,6 +9,7 @@ body {
     height: 100vh;
     background-image: linear-gradient(to top, #209cff 100%, #68e0cf 200%);
     display: flex;
+    padding: 5px;
     justify-content: center;
     align-items: center;
 }
